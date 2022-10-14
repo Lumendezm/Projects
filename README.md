@@ -29,7 +29,6 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
     <summary>view list...</summary>
     <ul>
         <li>React</li>
-        <li>React Native</li>
         <li>Node.js</li>
     </ul>
 </details>
